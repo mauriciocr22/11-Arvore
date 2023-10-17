@@ -1,3 +1,5 @@
+Maurício de Carvalho Rodrigues // mauricio.rodrigues10@fatec.sp.gov.br
+
 # Arvores (continuação)
 ---
 
